@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/sbin/CreateWebApp.gambas
+Name=Create Webapp
+Icon=applications-internet
+StartupNotify=true
+Categories=GTK;Network;
+Name[en_US]=Create WebApp

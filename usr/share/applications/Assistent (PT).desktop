@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_US]=/sbin/Assistent/icon.svg
+Name[en_US]=Assistent (PT)
+Exec=/sbin/Assistent/Assistent.gambas
+Comment[en_US]=Virtual Assistent
+Name=Assistent (PT)
+Comment=Virtual Assistent
+Icon=/sbin/Assistent/icon.svg
+Categories=GTK;Utility;

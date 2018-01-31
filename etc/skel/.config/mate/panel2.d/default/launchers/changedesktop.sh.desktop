@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[pt_PT]=/usr/share/icons/.sdesk.png
+Exec=/sbin/changedesktop.sh
+Name[pt_PT]=Switch Desktop
+Name=Switch Desktop
+Icon=/usr/share/icons/.sdesk.png

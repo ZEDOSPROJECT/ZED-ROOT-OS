@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+NoDisplay=true
+Exec=gksu -D ZIF_Installer python /sbin/zif_install.py %f
+Name=gksu
+Comment=Custom definition for gksu

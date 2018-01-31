@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="edit-copy.svg">
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1360"
+     inkscape:window-height="705"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="31.832941"
+     inkscape:cx="11.30535"
+     inkscape:cy="13.560829"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <g
+     style="fill-rule:evenodd"
+     id="g4">
+    <path
+       style="fill:#0088c8;fill-opacity:1"
+       d="M 1.8333331,7.5e-4 9.1666663,0 C 11,0 11,0 11,1.5 l 0,9 C 11,12 11,12 9.1666663,12 L 1.8333331,12 C -5e-8,12 -5e-8,12 -5e-8,10.5 l 0,-8.99925 c 0,-1.5 0,-1.5 1.83333315,-1.5 z"
+       id="path6" />
+    <path
+       style="fill:#d7e3f4"
+       d="M 6.8333337,4 14.166667,4 C 16,4 16,4 16,5.5000938 l 0,8.9998122 C 16,16 16,16 14.166667,16 L 6.8333337,16 C 5.0000003,16 5.0000003,16 5.0000003,14.499906 l 0,-8.9998122 C 5.0000003,4 5.0000003,4 6.8333337,4 z"
+       id="path8" />
+  </g>
+  <g
+     style="fill:#888"
+     id="g10">
+    <path
+       d="m 7,6 0,1 7,0 0,-1 z"
+       id="path12"
+       style="fill:#939dac" />
+    <path
+       d="m 7,12 0,1 4,0 0,-1 z"
+       id="path14"
+       style="fill:#6f7c91" />
+    <path
+       d="m 7,9 0,1 7,0 0,-1 z"
+       id="path16"
+       style="fill:#939dac" />
+  </g>
+</svg>

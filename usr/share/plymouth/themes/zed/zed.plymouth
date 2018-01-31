@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=ZED BOOT
+Description=ZED OS
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/zed
+ScriptFile=/usr/share/plymouth/themes/zed/zed-logo.script

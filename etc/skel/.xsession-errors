@@ -1,0 +1,342 @@
+openConnection: connect: Ficheiro ou directoria inexistente
+cannot connect to brltty at :0
+mate-session[17690]: WARNING: Unable to find provider '' of required component 'windowmanager'
+mate-session[17690]: WARNING: Unable to find provider '' of required component 'dock'
+Incapaz de abrir ficheiro de área /home/model/Switch.desktop para o iniciador de painel: Ficheiro ou directoria inexistente
+Incapaz de abrir ficheiro de área /home/model/Switch Desktop.desktop para o iniciador de painel: Ficheiro ou directoria inexistente
+mate-session[17690]: WARNING: Could not launch application 'devilspie.desktop': Unable to start application: Falha ao executar o processo filho "openbox" (Ficheiro ou directoria inexistente)
+grep: /home/model/.xinputrc: Ficheiro ou directoria inexistente
+
+** (process:18091): WARNING **: Warning: show_on_monitor_number is no longer a valid config option for the current version of Tilda.
+
+
+** (process:18091): WARNING **: Warning: scroll_background is no longer a valid config option for the current version of Tilda.
+
+
+** (process:18091): WARNING **: Warning: use_image is no longer a valid config option for the current version of Tilda.
+
+/usr/lib/python2.7/dist-packages/gi/overrides/Gtk.py:50: RuntimeWarning: You have imported the Gtk 2.0 module.  Because Gtk 2.0 was not designed for use with introspection some of the interfaces and API will fail.  As such this is not supported by the pygobject development team and we encourage you to port your app to Gtk 3 or greater. PyGTK is the recomended python module to use with Gtk 2.0
+  warnings.warn(warn_msg, RuntimeWarning)
+sys:1: PyGIWarning: Caja was imported without specifying a version first. Use gi.require_version('Caja', '2.0') before import to ensure that the right version gets loaded.
+** Message: Initializing gksu extension...
+
+(nm-applet:18064): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+/usr/share/themes/Radiant-MATE/gtk-2.0/apps/mate-panel.rc:30: error: invalid string constant "scrollbar", expected valid string constant
+
+(blueman-applet:18049): Gtk-WARNING **: Failed to set text '<b>Desligar o Bluetooth</>' from markup due to error parsing markup: Erro na linha 1, carácter 34: ">" não é um carácter válido após os caracteres "</"; ">" não pode iniciar o nome de um elemento
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+
+(blueman-applet:18049): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(blueman-applet:18049): Gtk-WARNING **: Failed to set text '<b>Desligar o Bluetooth</>' from markup due to error parsing markup: Erro na linha 1, carácter 34: ">" não é um carácter válido após os caracteres "</"; ">" não pode iniciar o nome de um elemento
+
+(blueman-applet:18049): LIBDBUSMENU-GTK-WARNING **: Could not parse '<b>Desligar o Bluetooth</>': Erro na linha 1, carácter 34: ">" não é um carácter válido após os caracteres "</"; ">" não pode iniciar o nome de um elemento
+/usr/lib/python3/dist-packages/blueman/plugins/applet/AppIndicator.py:8: PyGIWarning: AppIndicator3 was imported without specifying a version first. Use gi.require_version('AppIndicator3', '0.1') before import to ensure that the right version gets loaded.
+  from gi.repository import AppIndicator3 as girAppIndicator
+ERROR:dbus.proxies:Introspect error on org.bluez:/: dbus.exceptions.DBusException: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+ERROR:dbus.proxies:Introspect error on org.bluez:/org/bluez: dbus.exceptions.DBusException: org.freedesktop.DBus.Error.TimedOut: Failed to activate service 'org.bluez': timed out
+ERROR:dbus.proxies:Introspect error on org.bluez:/: dbus.exceptions.DBusException: org.freedesktop.DBus.Error.TimedOut: Failed to activate service 'org.bluez': timed out
+[Parent 18989, Gecko_IOThread] WARNING: pipe error (98): Ligação terminada no destino: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x150083,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x150001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+/usr/share/themes/Radiant-MATE/gtk-2.0/apps/mate-panel.rc:30: error: invalid string constant "scrollbar", expected valid string constant
+sys:1: Warning: /build/glib2.0-prJhLS/glib2.0-2.48.2/./gobject/gsignal.c:2635: instance '0x55f4ec936320' has no handler with id '9031'
+sys:1: Warning: /build/glib2.0-prJhLS/glib2.0-2.48.2/./gobject/gsignal.c:2635: instance '0x55f4eca5eb00' has no handler with id '10758'
+sys:1: Warning: /build/glib2.0-prJhLS/glib2.0-2.48.2/./gobject/gsignal.c:2635: instance '0x7f8cf800a460' has no handler with id '12988'
+sys:1: Warning: /build/glib2.0-prJhLS/glib2.0-2.48.2/./gobject/gsignal.c:2635: instance '0x55f4ec476c20' has no handler with id '15702'
+
+(xfwm4:18054): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(xfwm4:18054): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+cp: impossível criar o ficheiro regular '/usr/share/icons/.sdesk.png': Permissão negada
+mate-volume-control-applet: Fatal IO error 11 (Recurso indisponível temporariamente) on X server :0.
+mate-maximus: Fatal IO error 11 (Recurso indisponível temporariamente) on X server :0.
+caja: Fatal IO error 11 (Recurso indisponível temporariamente) on X server :0.
+
+(update-notifier:18035): Gdk-WARNING **: update-notifier: Fatal IO error 0 (Sucesso) on X server :0.
+
+
+(deja-dup-monitor:18047): GVFS-RemoteVolumeMonitor-WARNING **: Owner of volume monitor org.gtk.vfs.UDisks2VolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(deja-dup-monitor:18047): GVFS-RemoteVolumeMonitor-WARNING **: Owner of volume monitor org.gtk.vfs.MTPVolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(deja-dup-monitor:18047): GVFS-RemoteVolumeMonitor-WARNING **: Owner of volume monitor org.gtk.vfs.AfcVolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(nm-applet:18064): Gdk-WARNING **: nm-applet: Fatal IO error 0 (Sucesso) on X server :0.
+
+
+(tilda:18091): GVFS-RemoteVolumeMonitor-WARNING **: Owner of volume monitor org.gtk.vfs.UDisks2VolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(tilda:18091): GVFS-RemoteVolumeMonitor-WARNING **: Owner of volume monitor org.gtk.vfs.MTPVolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(tilda:18091): GVFS-RemoteVolumeMonitor-WARNING **: Owner of volume monitor org.gtk.vfs.AfcVolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(tilda:18091): GVFS-RemoteVolumeMonitor-WARNING **: Owner of volume monitor org.gtk.vfs.GPhoto2VolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(tilda:18091): GVFS-RemoteVolumeMonitor-WARNING **: Owner of volume monitor org.gtk.vfs.GoaVolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+
+(tilda:18091): Gdk-WARNING **: tilda: Fatal IO error 0 (Sucesso) on X server :0.
+
+./zed_desk_man.sh: linha 41: syntax error near unexpected token `fi'
+./zed_desk_man.sh: linha 41: `	fi'
+mkdir: impossível criar a pasta «/tmp/cp»: Ficheiro já existe
+mplayer: could not connect to socket
+mplayer: No such file or directory
+Failed to open LIRC support. You will not be able to use your remote control.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+Invalid MIT-MAGIC-COOKIE-1 keyvo: couldn't open the X11 display (:0)!
+Invalid MIT-MAGIC-COOKIE-1 keyvo: couldn't open the X11 display (:0)!
+Invalid MIT-MAGIC-COOKIE-1 keyvo: couldn't open the X11 display (:0)!
+Invalid MIT-MAGIC-COOKIE-1 keyInvalid MIT-MAGIC-COOKIE-1 keyInvalid MIT-MAGIC-COOKIE-1 key
+
+MPlayer interrupted by signal 11 in module: preinit_libvo
+- MPlayer crashed by bad usage of CPU/FPU/RAM.
+  Recompile MPlayer with --enable-debug and make a 'gdb' backtrace and
+  disassembly. Details in DOCS/HTML/en/bugreports_what.html#bugreports_crash.
+- MPlayer crashed. This shouldn't happen.
+  It can be a bug in the MPlayer code _or_ in your drivers _or_ in your
+  gcc version. If you think it's MPlayer's fault, please read
+  DOCS/HTML/en/bugreports.html and follow the instructions there. We can't and
+  won't help unless you provide this information when reporting a possible bug.
+ [ This binary of MPlayer in Debian is currently compiled with
+   '--enable-debug'; the debugging symbols are in the package
+   'mplayer-dbg'.]
+gb.gui: warning: 'gb.qt4' component not found, using 'gb.qt5' instead
+Invalid MIT-MAGIC-COOKIE-1 keyxcb_connection_has_error() returned true
+ALSA lib confmisc.c:768:(parse_card) cannot find card '0'
+ALSA lib conf.c:4292:(_snd_config_evaluate) function snd_func_card_driver returned error: No such file or directory
+ALSA lib confmisc.c:392:(snd_func_concat) error evaluating strings
+ALSA lib conf.c:4292:(_snd_config_evaluate) function snd_func_concat returned error: No such file or directory
+ALSA lib confmisc.c:1251:(snd_func_refer) error evaluating name
+ALSA lib conf.c:4292:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:4771:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2266:(snd_pcm_open_noupdate) Unknown PCM sysdefault
+ALSA lib confmisc.c:768:(parse_card) cannot find card '0'
+ALSA lib conf.c:4292:(_snd_config_evaluate) function snd_func_card_driver returned error: No such file or directory
+ALSA lib confmisc.c:392:(snd_func_concat) error evaluating strings
+ALSA lib conf.c:4292:(_snd_config_evaluate) function snd_func_concat returned error: No such file or directory
+ALSA lib confmisc.c:1251:(snd_func_refer) error evaluating name
+ALSA lib conf.c:4292:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:4771:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2266:(snd_pcm_open_noupdate) Unknown PCM sysdefault
+ALSA lib pcm.c:2266:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.front
+ALSA lib pcm.c:2266:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.rear
+ALSA lib pcm.c:2266:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.center_lfe
+ALSA lib pcm.c:2266:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.side
+ALSA lib pcm.c:2266:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2266:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround21
+ALSA lib pcm.c:2266:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround40
+ALSA lib pcm.c:2266:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround41
+ALSA lib pcm.c:2266:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround50
+ALSA lib pcm.c:2266:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround51
+ALSA lib pcm.c:2266:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.surround71
+ALSA lib pcm.c:2266:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2266:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2266:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.iec958
+ALSA lib pcm.c:2266:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2266:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.hdmi
+ALSA lib pcm.c:2266:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2266:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.modem
+ALSA lib pcm.c:2266:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+ALSA lib pcm.c:2266:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.phoneline
+Invalid MIT-MAGIC-COOKIE-1 keyxcb_connection_has_error() returned true
+Invalid MIT-MAGIC-COOKIE-1 keyxcb_connection_has_error() returned true
+Invalid MIT-MAGIC-COOKIE-1 keyxcb_connection_has_error() returned true
+Invalid MIT-MAGIC-COOKIE-1 keyQXcbConnection: Could not connect to display :0
+Invalid MIT-MAGIC-COOKIE-1 keyxcb_connection_has_error() returned true
+TERM environment variable not set.
+ALSA lib confmisc.c:768:(parse_card) cannot find card '0'
+ALSA lib conf.c:4292:(_snd_config_evaluate) function snd_func_card_driver returned error: No such file or directory
+ALSA lib confmisc.c:392:(snd_func_concat) error evaluating strings
+ALSA lib conf.c:4292:(_snd_config_evaluate) function snd_func_concat returned error: No such file or directory
+ALSA lib confmisc.c:1251:(snd_func_refer) error evaluating name
+ALSA lib conf.c:4292:(_snd_config_evaluate) function snd_func_refer returned error: No such file or directory
+ALSA lib conf.c:4771:(snd_config_expand) Evaluate error: No such file or directory
+ALSA lib pcm.c:2266:(snd_pcm_open_noupdate) Unknown PCM dmix
+Cannot connect to server socket err = No such file or directory
+Cannot connect to server request channel
+jack server is not running or cannot be started
+JackShmReadWritePtr::~JackShmReadWritePtr - Init not done for 4294967295, skipping unlock
+JackShmReadWritePtr::~JackShmReadWritePtr - Init not done for 4294967295, skipping unlock
+Invalid MIT-MAGIC-COOKIE-1 keyxcb_connection_has_error() returned true
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+/sbin/zstartup.sh: line 24: 21357 Abortado                (core dumped) nice -n 19 ./dropbox_config.gambas  (wd: /sbin)
+Invalid MIT-MAGIC-COOKIE-1 keyxcb_connection_has_error() returned true
+Invalid MIT-MAGIC-COOKIE-1 key
+(WelcomeScreen.gambas:22137): Gtk-WARNING **: cannot open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+Invalid MIT-MAGIC-COOKIE-1 keyError: Can't open display: :0
+TERM environment variable not set.
