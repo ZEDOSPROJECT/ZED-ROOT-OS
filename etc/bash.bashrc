@@ -68,7 +68,7 @@ if [ -x /usr/lib/command-not-found -o -x /usr/share/command-not-found/command-no
 fi
 
 echo "
-Version: BETA 2.2
+Version: 2018
 
 	                  Welcome to ZED OS Terminal 
 	                  
