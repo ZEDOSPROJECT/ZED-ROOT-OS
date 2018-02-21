@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=ZEDSync Settings
+Exec=/sbin/dropbox_config.gambas config
+Icon=/usr/share/icons/zsync.png
+Categories=Settings
+

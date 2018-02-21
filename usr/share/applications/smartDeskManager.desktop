@@ -1,0 +1,11 @@
+[Desktop Entry]
+Comment=
+Encoding=UTF-8
+Exec='/sbin/smartDeskManager.gambas'
+Icon=preferences-desktop-display
+Name=smartDesk Settings
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+Categories=Settings;DesktopSettings;

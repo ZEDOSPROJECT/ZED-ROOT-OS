@@ -1,6 +1,0 @@
-[Desktop Entry]
-Name=YouTube
-Type=Application
-Categories=Utility
-Icon=/home/model/.local/share/icons/a2596.png
-Exec=/etc/OpenWA.gambas http://youtube.com
