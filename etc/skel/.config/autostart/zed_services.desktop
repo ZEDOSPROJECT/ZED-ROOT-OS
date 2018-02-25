@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/sbin/zstartup.sh
+Name=ZED Services
+Name[pt_PT]=ZEDServices.desktop
