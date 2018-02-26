@@ -1,7 +1,7 @@
 #!/bin/bash
 
-xfwm4 --compositor=auto
-devilspie
+xfwm4 --compositor=auto &
+devilspie &
 
 cp /usr/share/icons/g3D.png /usr/share/icons/.sdesk.png
 
