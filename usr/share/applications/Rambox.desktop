@@ -1,0 +1,11 @@
+[Desktop Entry]
+Comment=
+Encoding=UTF-8
+Exec='/etc/Rambox/rambox'
+Icon='/etc/Rambox/Icon.ico'
+Name=smartDesk Settings
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+Categories=GTK;Network;
