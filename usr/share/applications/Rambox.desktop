@@ -2,8 +2,8 @@
 Comment=
 Encoding=UTF-8
 Exec='/etc/Rambox/rambox'
-Icon='/etc/Rambox/Icon.ico'
-Name=smartDesk Settings
+Icon='/etc/Rambox/Icon.png'
+Name=Rambox
 StartupNotify=true
 Terminal=false
 TerminalOptions=
