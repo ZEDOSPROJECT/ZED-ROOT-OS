@@ -2,7 +2,7 @@
 Comment=
 Encoding=UTF-8
 Exec='/etc/Rambox/rambox'
-Icon='/etc/Rambox/Icon.png'
+Icon=/etc/Rambox/Icon.png
 Name=Rambox
 StartupNotify=true
 Terminal=false
