@@ -1,12 +1,12 @@
 #!/bin/bash
 
-xfwm4 --compositor=auto &
+xfwm4 --compositor=on &
 devilspie &
 
-cp /usr/share/icons/g3D.png /usr/share/icons/.sdesk.png
+cp /usr/share/icons/g3D.png /usr/share/icons/.sdesk.png&
 
-pkill -9 -f wake_slap.py
-pkill -9 -f smartDesk.py
+pkill -9 -f wake_slap.py&
+pkill -9 -f smartDesk.py&
 
 cd /sbin
 mplayer /sbin/START.mp4 -fs &

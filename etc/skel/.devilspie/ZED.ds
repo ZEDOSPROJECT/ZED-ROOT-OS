@@ -1,0 +1,6 @@
+(if (matches (window_name) "3DUI") (begin (below)
+        (undecorate)
+        (skip_pager)
+        (skip_tasklist)
+        (maximize)
+    )) 
