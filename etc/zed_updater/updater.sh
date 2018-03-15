@@ -1,7 +1,7 @@
 #!/bin/bash
 
 while [ True ]; do
-	versionServer=$(wget -q -O- http://sispicserver.esy.es/UPDATES/zed/BETA2/zed.version)
+	versionServer=$(wget -q -O- http://sispicserver.esy.es/UPDATES/zed/2018/zed.version)
 	versionLocal=$(sed -n '1p' < /etc/zed_updater/version)
 	if [ "$versionServer" != "" ]; then
 		if [ "$versionLocal" -lt "$versionServer" ];then
