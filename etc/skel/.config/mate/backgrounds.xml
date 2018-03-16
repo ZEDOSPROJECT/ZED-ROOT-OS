@@ -5,262 +5,694 @@
     <name>Nature Park.jpg</name>
     <filename>/usr/share/backgrounds/Nature Park.jpg</filename>
     <options>wallpaper</options>
-    <shade_type>stretched</shade_type>
+    <shade_type>solid</shade_type>
     <pcolor>rgb(11,87,147)</pcolor>
     <scolor>rgb(86,0,249)</scolor>
-    <artist/>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Cold</name>
+    <filename>/usr/share/backgrounds/mate/desktop/Ubuntu-Mate-Cold-no-logo.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Goce Mitevski</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Grey Wall (Logo)</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-common/Grey-Wall-Logo.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Roberto Perico</artist>
   </wallpaper>
   <wallpaper deleted="false">
     <name>Dream.jpg</name>
     <filename>/usr/share/backgrounds/Dream.jpg</filename>
     <options>wallpaper</options>
-    <shade_type>stretched</shade_type>
+    <shade_type>solid</shade_type>
     <pcolor>rgb(11,87,147)</pcolor>
     <scolor>rgb(86,0,249)</scolor>
-    <artist/>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Gotas de chuva</name>
+    <filename>/usr/share/backgrounds/mate/nature/RainDrops.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>blackcombwhistler07</artist>
   </wallpaper>
   <wallpaper deleted="false">
     <name>Dunes.jpg</name>
     <filename>/usr/share/backgrounds/Dunes.jpg</filename>
     <options>wallpaper</options>
-    <shade_type>stretched</shade_type>
+    <shade_type>solid</shade_type>
     <pcolor>rgb(11,87,147)</pcolor>
     <scolor>rgb(86,0,249)</scolor>
-    <artist/>
+    <artist>(none)</artist>
   </wallpaper>
   <wallpaper deleted="false">
     <name>Sem Fundo da &#xC1;rea de Trabalho</name>
     <filename>(none)</filename>
     <options>wallpaper</options>
-    <shade_type>stretched</shade_type>
+    <shade_type>solid</shade_type>
     <pcolor>rgb(11,87,147)</pcolor>
     <scolor>rgb(86,0,249)</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Listras</name>
+    <filename>/usr/share/backgrounds/mate/desktop/Stripes.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>rgb(88,145,188)</pcolor>
+    <scolor>rgb(68,165,42)</scolor>
+    <artist>Jakub Steiner</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>In the Sea</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-artful/In-The-Sea.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Ele</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Arcos</name>
+    <filename>/usr/share/backgrounds/mate/abstract/Arc-Colors-Transparent-Wallpaper.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>rgb(39,88,126)</pcolor>
+    <scolor>rgb(98,127,90)</scolor>
     <artist>(none)</artist>
   </wallpaper>
   <wallpaper deleted="false">
     <name>Headstock_by_Bernhard_Hanakam.jpg</name>
     <filename>/usr/share/backgrounds/Headstock_by_Bernhard_Hanakam.jpg</filename>
     <options>wallpaper</options>
-    <shade_type>stretched</shade_type>
+    <shade_type>solid</shade_type>
     <pcolor>rgb(11,87,147)</pcolor>
     <scolor>rgb(86,0,249)</scolor>
-    <artist/>
+    <artist>(none)</artist>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>Planking_is_going_against_the_grain_by_mendhak.jpg</name>
-    <filename>/usr/share/backgrounds/Planking_is_going_against_the_grain_by_mendhak.jpg</filename>
-    <options>wallpaper</options>
-    <shade_type>stretched</shade_type>
+    <name>Flor amarela</name>
+    <filename>/usr/share/backgrounds/mate/nature/YellowFlower.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
     <pcolor>rgb(11,87,147)</pcolor>
     <scolor>rgb(86,0,249)</scolor>
-    <artist/>
+    <artist>Charles Barbin</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Grey Wall (Logo and Text)</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-common/Grey-Wall-Logo-Text.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Roberto Perico</artist>
   </wallpaper>
   <wallpaper deleted="false">
     <name>warty-final-ubuntu.png</name>
     <filename>/usr/share/backgrounds/warty-final-ubuntu.png</filename>
     <options>wallpaper</options>
-    <shade_type>stretched</shade_type>
+    <shade_type>solid</shade_type>
     <pcolor>rgb(11,87,147)</pcolor>
     <scolor>rgb(86,0,249)</scolor>
-    <artist/>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Warm</name>
+    <filename>/usr/share/backgrounds/mate/desktop/Ubuntu-Mate-Warm-no-logo.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Goce Mitevski</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Snowflake</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-artful/Ubuntu-MATE-Snowflake.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Alexander Boden</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Planking_is_going_against_the_grain_by_mendhak.jpg</name>
+    <filename>/usr/share/backgrounds/Planking_is_going_against_the_grain_by_mendhak.jpg</filename>
+    <options>wallpaper</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Green Wall (Logo and Text)</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-common/Green-Wall-Logo-Text.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Roberto Perico</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Reflected</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-artful/the-moon-and-ubuntu-mate.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Antech Designs</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Jardim</name>
+    <filename>/usr/share/backgrounds/mate/nature/Garden.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Charles Barbin</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>MATE Stripes Light</name>
+    <filename>/usr/share/backgrounds/mate/desktop/MATE-Stripes-Light.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>rgb(63,77,40)</pcolor>
+    <scolor>rgb(106,148,38)</scolor>
+    <artist>Adam Erdman</artist>
   </wallpaper>
   <wallpaper deleted="false">
     <name>Green_Island_by_Radu_Galan.jpg</name>
     <filename>/usr/share/backgrounds/Green_Island_by_Radu_Galan.jpg</filename>
     <options>wallpaper</options>
-    <shade_type>stretched</shade_type>
+    <shade_type>solid</shade_type>
     <pcolor>rgb(11,87,147)</pcolor>
     <scolor>rgb(86,0,249)</scolor>
-    <artist/>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Grey Jazz</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-common/Grey-Jazz.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Roberto Perico</artist>
   </wallpaper>
   <wallpaper deleted="false">
     <name>Aardvark_Wallpaper_Grey_4096x2304.png</name>
     <filename>/usr/share/backgrounds/Aardvark_Wallpaper_Grey_4096x2304.png</filename>
     <options>wallpaper</options>
-    <shade_type>stretched</shade_type>
+    <shade_type>solid</shade_type>
     <pcolor>rgb(11,87,147)</pcolor>
     <scolor>rgb(86,0,249)</scolor>
-    <artist/>
+    <artist>(none)</artist>
   </wallpaper>
   <wallpaper deleted="false">
     <name>More_Kamikochi_by_mendhak.jpg</name>
     <filename>/usr/share/backgrounds/More_Kamikochi_by_mendhak.jpg</filename>
     <options>wallpaper</options>
-    <shade_type>stretched</shade_type>
+    <shade_type>solid</shade_type>
     <pcolor>rgb(11,87,147)</pcolor>
     <scolor>rgb(86,0,249)</scolor>
-    <artist/>
+    <artist>(none)</artist>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>ubuntu-default-greyscale-wallpaper.png</name>
-    <filename>/usr/share/backgrounds/ubuntu-default-greyscale-wallpaper.png</filename>
-    <options>wallpaper</options>
-    <shade_type>stretched</shade_type>
+    <name>Joaninha</name>
+    <filename>/usr/share/backgrounds/mate/nature/LadyBird.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
     <pcolor>rgb(11,87,147)</pcolor>
     <scolor>rgb(86,0,249)</scolor>
-    <artist/>
+    <artist>Charles Barbin</artist>
   </wallpaper>
   <wallpaper deleted="false">
     <name>Tree.jpg</name>
     <filename>/usr/share/backgrounds/Tree.jpg</filename>
     <options>wallpaper</options>
-    <shade_type>stretched</shade_type>
+    <shade_type>solid</shade_type>
     <pcolor>rgb(11,87,147)</pcolor>
     <scolor>rgb(86,0,249)</scolor>
-    <artist/>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Verde tradicional</name>
+    <filename>/usr/share/backgrounds/mate/desktop/GreenTraditional.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>l0r4n0n</artist>
   </wallpaper>
   <wallpaper deleted="false">
     <name>Lily_of_the_Valley_by_Robert_Slotte.jpg</name>
     <filename>/usr/share/backgrounds/Lily_of_the_Valley_by_Robert_Slotte.jpg</filename>
-    <options>wallpaper</options>
-    <shade_type>stretched</shade_type>
+    <options>stretched</options>
+    <shade_type>solid</shade_type>
     <pcolor>rgb(11,87,147)</pcolor>
     <scolor>rgb(86,0,249)</scolor>
-    <artist/>
+    <artist>(none)</artist>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>Sunrise_on_the_beach_by_Luca_Ciavatta.jpg</name>
-    <filename>/usr/share/backgrounds/Sunrise_on_the_beach_by_Luca_Ciavatta.jpg</filename>
-    <options>wallpaper</options>
-    <shade_type>stretched</shade_type>
+    <name>Flor fresca</name>
+    <filename>/usr/share/backgrounds/mate/nature/FreshFlower.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
     <pcolor>rgb(11,87,147)</pcolor>
     <scolor>rgb(86,0,249)</scolor>
-    <artist/>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>World.jpg</name>
-    <filename>/usr/share/backgrounds/World.jpg</filename>
-    <options>wallpaper</options>
-    <shade_type>stretched</shade_type>
-    <pcolor>rgb(11,87,147)</pcolor>
-    <scolor>rgb(86,0,249)</scolor>
-    <artist/>
+    <artist>Jens Ansorg</artist>
   </wallpaper>
   <wallpaper deleted="false">
     <name>Voss_by_fortuneblues.jpg</name>
     <filename>/usr/share/backgrounds/Voss_by_fortuneblues.jpg</filename>
     <options>wallpaper</options>
-    <shade_type>stretched</shade_type>
+    <shade_type>solid</shade_type>
     <pcolor>rgb(11,87,147)</pcolor>
     <scolor>rgb(86,0,249)</scolor>
-    <artist/>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Dark</name>
+    <filename>/usr/share/backgrounds/mate/desktop/Ubuntu-Mate-Dark-no-logo.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Goce Mitevski</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Cosmos</name>
+    <filename>/usr/share/backgrounds/cosmos/background-1.xml</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>ubuntu-default-greyscale-wallpaper.png</name>
+    <filename>/usr/share/backgrounds/ubuntu-default-greyscale-wallpaper.png</filename>
+    <options>wallpaper</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Green Wall (Logo)</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-common/Green-Wall-Logo.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Roberto Perico</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Green Jazz</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-common/Green-Jazz.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Roberto Perico</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Dark (No Logo)</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-common/Ubuntu-Mate-Dark-no-logo.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Goce Mitevski</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Shocking</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-artful/Shocking-No-Logo.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Timi Zero</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Sunrise_on_the_beach_by_Luca_Ciavatta.jpg</name>
+    <filename>/usr/share/backgrounds/Sunrise_on_the_beach_by_Luca_Ciavatta.jpg</filename>
+    <options>wallpaper</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Tempestade</name>
+    <filename>/usr/share/backgrounds/mate/nature/Storm.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Sergey Nazarov</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>World.jpg</name>
+    <filename>/usr/share/backgrounds/World.jpg</filename>
+    <options>wallpaper</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Wavey</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-artful/Wavey-Ubuntu-MATE.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Riccardo Pecchioli</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Primavera</name>
+    <filename>/usr/share/backgrounds/mate/abstract/Spring.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>rgb(39,88,126)</pcolor>
+    <scolor>rgb(98,127,90)</scolor>
+    <artist>Patryk Zawadzki</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Shocking Logo</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-artful/Shocking.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Timi Zero</artist>
   </wallpaper>
   <wallpaper deleted="false">
     <name>Blue.png</name>
     <filename>/usr/share/backgrounds/Blue.png</filename>
     <options>wallpaper</options>
-    <shade_type>stretched</shade_type>
+    <shade_type>solid</shade_type>
     <pcolor>rgb(11,87,147)</pcolor>
     <scolor>rgb(86,0,249)</scolor>
-    <artist/>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Madeira</name>
+    <filename>/usr/share/backgrounds/mate/nature/Wood.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Jean-Fran&#xE7;ois Fortin Tam</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>MATE Stripes Dark</name>
+    <filename>/usr/share/backgrounds/mate/desktop/MATE-Stripes-Dark.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>rgb(186,218,85)</pcolor>
+    <scolor>rgb(133,212,91)</scolor>
+    <artist>Adam Erdman</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Float into MATE</name>
+    <filename>/usr/share/backgrounds/mate/desktop/Float-into-MATE.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Rowen Stipe</artist>
   </wallpaper>
   <wallpaper deleted="false">
     <name>Flower.jpg</name>
     <filename>/usr/share/backgrounds/Flower.jpg</filename>
     <options>wallpaper</options>
-    <shade_type>stretched</shade_type>
+    <shade_type>solid</shade_type>
     <pcolor>rgb(11,87,147)</pcolor>
     <scolor>rgb(86,0,249)</scolor>
-    <artist/>
+    <artist>(none)</artist>
   </wallpaper>
   <wallpaper deleted="false">
     <name>Flower  of world.jpg</name>
     <filename>/usr/share/backgrounds/Flower  of world.jpg</filename>
     <options>wallpaper</options>
-    <shade_type>stretched</shade_type>
+    <shade_type>solid</shade_type>
     <pcolor>rgb(11,87,147)</pcolor>
     <scolor>rgb(86,0,249)</scolor>
-    <artist/>
+    <artist>(none)</artist>
   </wallpaper>
   <wallpaper deleted="false">
     <name>Waves.jpg</name>
     <filename>/usr/share/backgrounds/Waves.jpg</filename>
     <options>wallpaper</options>
-    <shade_type>stretched</shade_type>
+    <shade_type>solid</shade_type>
     <pcolor>rgb(11,87,147)</pcolor>
     <scolor>rgb(86,0,249)</scolor>
-    <artist/>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Campo verde</name>
+    <filename>/usr/share/backgrounds/mate/nature/GreenMeadow.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Timothy Schellhase, Lapo Calamandrei</artist>
   </wallpaper>
   <wallpaper deleted="false">
     <name>View.jpg</name>
     <filename>/usr/share/backgrounds/View.jpg</filename>
     <options>wallpaper</options>
-    <shade_type>stretched</shade_type>
+    <shade_type>solid</shade_type>
     <pcolor>rgb(11,87,147)</pcolor>
     <scolor>rgb(86,0,249)</scolor>
-    <artist/>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Duas asas</name>
+    <filename>/usr/share/backgrounds/mate/nature/TwoWings.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Charles Barbin, Hylke Bons</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Grey Splash</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-common/Ubuntu-MATE-Splash-Grey.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Martin Wimpress</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ondas</name>
+    <filename>/usr/share/backgrounds/mate/abstract/Waves.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>rgb(39,88,126)</pcolor>
+    <scolor>rgb(98,127,90)</scolor>
+    <artist>Patryk Zawadzki</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Circle of Mates (Dark)</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-common/ubuntu-mate-desktop-circle_of_mates_dark.png</filename>
+    <options>stretched</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Ivan Peji&#x107;</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Swirl Two</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-artful/Ubuntu-MATE-Swirl2.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Peter Pfeiffer</artist>
   </wallpaper>
   <wallpaper deleted="false">
     <name>Bee_on_lavendar_by_Martin.jpg</name>
     <filename>/usr/share/backgrounds/Bee_on_lavendar_by_Martin.jpg</filename>
     <options>wallpaper</options>
-    <shade_type>stretched</shade_type>
+    <shade_type>solid</shade_type>
     <pcolor>rgb(11,87,147)</pcolor>
     <scolor>rgb(86,0,249)</scolor>
-    <artist/>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Red_delight_by_Rishikesh_Gawade.jpg</name>
-    <filename>/usr/share/backgrounds/Red_delight_by_Rishikesh_Gawade.jpg</filename>
-    <options>wallpaper</options>
-    <shade_type>stretched</shade_type>
-    <pcolor>rgb(11,87,147)</pcolor>
-    <scolor>rgb(86,0,249)</scolor>
-    <artist/>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Colors.jpg</name>
-    <filename>/usr/share/backgrounds/Colors.jpg</filename>
-    <options>wallpaper</options>
-    <shade_type>stretched</shade_type>
-    <pcolor>rgb(11,87,147)</pcolor>
-    <scolor>rgb(86,0,249)</scolor>
-    <artist/>
+    <artist>(none)</artist>
   </wallpaper>
   <wallpaper deleted="false">
     <name>Yellow Flower.jpg</name>
     <filename>/usr/share/backgrounds/Yellow Flower.jpg</filename>
     <options>wallpaper</options>
-    <shade_type>stretched</shade_type>
+    <shade_type>solid</shade_type>
     <pcolor>rgb(11,87,147)</pcolor>
     <scolor>rgb(86,0,249)</scolor>
-    <artist/>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Moon</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-artful/Ubuntu-MATE-Moon.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Alexander Boden</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Red_delight_by_Rishikesh_Gawade.jpg</name>
+    <filename>/usr/share/backgrounds/Red_delight_by_Rishikesh_Gawade.jpg</filename>
+    <options>wallpaper</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Colors.jpg</name>
+    <filename>/usr/share/backgrounds/Colors.jpg</filename>
+    <options>wallpaper</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Grey Wall</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-common/Grey-Wall.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Roberto Perico</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>In the Country</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-artful/In-The-Country.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Ele</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Gole</name>
+    <filename>/usr/share/backgrounds/mate/abstract/Gulp.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>rgb(98,127,90)</pcolor>
+    <scolor>rgb(39,88,126)</scolor>
+    <artist>Daniel Galleguillos, Hylke Bons</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Green Wall</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-common/Green-Wall.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Roberto Perico</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Swirl One</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-artful/Ubuntu-MATE-Swirl1.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Peter Pfeiffer</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Radioactive</name>
+    <filename>/usr/share/backgrounds/mate/desktop/Ubuntu-Mate-Radioactive-no-logo.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Goce Mitevski</artist>
   </wallpaper>
   <wallpaper deleted="false">
     <name>Lighthouse_at_sunrise_by_Frenchie_Smalls.jpg</name>
     <filename>/usr/share/backgrounds/Lighthouse_at_sunrise_by_Frenchie_Smalls.jpg</filename>
     <options>wallpaper</options>
-    <shade_type>stretched</shade_type>
+    <shade_type>solid</shade_type>
     <pcolor>rgb(11,87,147)</pcolor>
     <scolor>rgb(86,0,249)</scolor>
-    <artist/>
+    <artist>(none)</artist>
   </wallpaper>
   <wallpaper deleted="false">
     <name>Grand_Canyon_North_Rim_by_Rihards_Vilks.jpg</name>
     <filename>/usr/share/backgrounds/Grand_Canyon_North_Rim_by_Rihards_Vilks.jpg</filename>
     <options>wallpaper</options>
-    <shade_type>stretched</shade_type>
+    <shade_type>solid</shade_type>
     <pcolor>rgb(11,87,147)</pcolor>
     <scolor>rgb(86,0,249)</scolor>
-    <artist/>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Persianas</name>
+    <filename>/usr/share/backgrounds/mate/nature/Blinds.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Lennart Poettering, Andrea Cimitan</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Seda</name>
+    <filename>/usr/share/backgrounds/mate/abstract/Silk.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>rgb(39,88,126)</pcolor>
+    <scolor>rgb(98,127,90)</scolor>
+    <artist>Patryk Zawadzki</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Green Splash</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-common/Ubuntu-MATE-Splash.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Martin Wimpress</artist>
   </wallpaper>
   <wallpaper deleted="false">
     <name>London_Eye_by_Paul_Daniell.jpg</name>
     <filename>/usr/share/backgrounds/London_Eye_by_Paul_Daniell.jpg</filename>
     <options>wallpaper</options>
-    <shade_type>stretched</shade_type>
+    <shade_type>solid</shade_type>
     <pcolor>rgb(11,87,147)</pcolor>
     <scolor>rgb(86,0,249)</scolor>
-    <artist/>
+    <artist>(none)</artist>
   </wallpaper>
   <wallpaper deleted="false">
     <name>Bloom_by_Victor_Madru.jpg</name>
     <filename>/usr/share/backgrounds/Bloom_by_Victor_Madru.jpg</filename>
     <options>wallpaper</options>
-    <shade_type>stretched</shade_type>
+    <shade_type>solid</shade_type>
     <pcolor>rgb(11,87,147)</pcolor>
     <scolor>rgb(86,0,249)</scolor>
-    <artist/>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Fluxo</name>
+    <filename>/usr/share/backgrounds/mate/abstract/Flow.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>rgb(39,88,126)</pcolor>
+    <scolor>rgb(98,127,90)</scolor>
+    <artist>Daniel Galleguillos, Hylke Bons</artist>
   </wallpaper>
   <wallpaper deleted="false">
     <name>Free-Wallpapers-For-Mobile.jpg</name>
@@ -270,5 +702,41 @@
     <pcolor>rgb(0,0,249)</pcolor>
     <scolor>rgb(86,0,249)</scolor>
     <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Northern Lights</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-artful/Ubuntu-MATE-Northern-Lights.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Richard van Liessum</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Aqua</name>
+    <filename>/usr/share/backgrounds/mate/nature/Aqua.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Charles Barbin</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Duna</name>
+    <filename>/usr/share/backgrounds/mate/nature/Dune.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Marco Cogoni, Hylke Bons</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Sea</name>
+    <filename>/usr/share/backgrounds/ubuntu-mate-artful/Ubuntu-MATE-Sea.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(11,87,147)</pcolor>
+    <scolor>rgb(86,0,249)</scolor>
+    <artist>Richard van Liessum</artist>
   </wallpaper>
 </wallpapers>
