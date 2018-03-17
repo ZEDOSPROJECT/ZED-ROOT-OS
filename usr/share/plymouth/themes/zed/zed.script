@@ -1,4 +1,4 @@
-#  arch-logo.script - boot splash plugin
+#  zed-logo.script - boot splash plugin
 # 
 #  Copyright (C) 2009 Canonical Ltd.
 # 
@@ -164,7 +164,7 @@ fun StringToInteger (str) {
 # New background colour
 # #2c001e --> 0.16, 0.00, 0.12
 #
-# New arch background, it's just black
+# New zed background, it's just black
 # 0.00, 0.00, 0.00
 
 Window.SetBackgroundTopColor (0.00, 0.00, 0.00);     # Nice colour on top of the screen fading to

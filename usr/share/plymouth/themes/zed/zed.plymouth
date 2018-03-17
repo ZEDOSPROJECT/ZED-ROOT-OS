@@ -5,4 +5,4 @@ ModuleName=script
 
 [script]
 ImageDir=/usr/share/plymouth/themes/zed
-ScriptFile=/usr/share/plymouth/themes/zed/zed-logo.script
+ScriptFile=/usr/share/plymouth/themes/zed/zed.script
