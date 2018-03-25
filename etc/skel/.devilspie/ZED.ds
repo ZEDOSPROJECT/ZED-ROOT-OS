@@ -1,4 +1,4 @@
-(if (matches (window_name) "3DUI") (begin (below)
+(if (matches (window_name) "3dUI") (begin (below)
         (undecorate)
         (skip_pager)
         (skip_tasklist)
