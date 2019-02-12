@@ -21,7 +21,7 @@ download()
 cd /tmp
 file="/update.tar.gz"
 echo -n "Downloading $file:"
-curl -sI http://sispicserver.esy.es/UPDATES/zed/2018/$file | grep Content-Length | awk '{print $2}' > /tmp/dfs
+curl -sI https://zed-os.sourceforge.io/UPDATES/zed/2018/$file | grep Content-Length | awk '{print $2}' > /tmp/dfs
 nFinish=True
 progress &
 download "http://sispicserver.esy.es/UPDATES/zed/BETA2/$file"
