@@ -24,7 +24,7 @@ echo -n "Downloading $file:"
 curl -sI https://zed-os.sourceforge.io/UPDATES/zed/2018/$file | grep Content-Length | awk '{print $2}' > /tmp/dfs
 nFinish=True
 progress &
-download "https://zed-os.sourceforge.io/UPDATES/zed/BETA2/$file"
+download "http://zedos.000webhostapp.com/updates/2018/$file"
 tar -zxvf /tmp/update.tar.gz -C /
 cp /etc/xdg/opoenbox/rc.xml /home/$USER/.config/openbox/rc.xml
 sudo update-initramfs -u
