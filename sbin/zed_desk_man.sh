@@ -3,8 +3,10 @@
 #loop que testa se dropbox esta aberto
 while [ : ]
 do
-	DB_STATUS="$(dropbox status)"
-	if [ "$DB_STATUS" = "Up to date" ] ; then
+	PROCESS="megasync"
+    PID=`pgrep $PROCESS | tail -n 1`
+    CPU=`top -b -p $PID -n 1 | tail -n 1 | awk '{print $9}'`
+	if [ "$CPU" = "0.0" ] ; then
 		if [ -s ~/.config/zed/bg ] ; then
 			#get current wallpaper from MATE DE
 			ACT_PATH=$(gsettings get org.mate.background picture-filename)
@@ -33,7 +35,7 @@ do
 			fi
 			sleep 1
 		else
-			if ! pgrep "dropbox" > /dev/null
+			if ! pgrep "megasync" > /dev/null
 			then
 				touch ~/.config/zed/bg -a -m -d '1 Jan 1999 12:34'
 			fi
