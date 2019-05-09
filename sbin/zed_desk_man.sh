@@ -4,11 +4,11 @@
 while [ : ]
 do
 	DB_STATUS="$(dropbox status)"
-	if [ "$DB_STATUS" = "Up to date" ]
+	if [ "$DB_STATUS" = "Up to date" ] ; then
 		if [ -s ~/.config/zed/bg ] ; then
 			#get current wallpaper from MATE DE
 			ACT_PATH=$(gsettings get org.mate.background picture-filename)
-			ACT_PATH=$(echo $ACT_PATH  | cut -d "'" -f 2)
+			ACT_PATH=$(echo "$ACT_PATH"  | cut -d "'" -f 2)
 
 			#Get Local file and Dropbox file BG content
 			LOCAL_FILE=$(cat ~/.config/zed/bg)
@@ -18,7 +18,7 @@ do
 			then
 				#write new wallpaper file path selected to BG file
 				LAST_PATH=$ACT_PATH
-				echo -n $LAST_PATH > ~/.config/zed/bg
+				echo -n $"LAST_PATH" > ~/.config/zed/bg
 				sleep 0.5
 
 				#set the wallpaper to MATE DE from BG file

@@ -9,7 +9,6 @@ pkill -9 -f smartDesk.py&
 
 cd /sbin
 nice -n 19 ./zed_desk_man.sh &
-nice -n 19 ./OnlineWallpaper.sh &
 nice -n 19 ./DBStartup.sh &
 nice -n 19 ./dropbox_config.gambas &
 nice -n 19 python /sbin/wake_slap.py &
